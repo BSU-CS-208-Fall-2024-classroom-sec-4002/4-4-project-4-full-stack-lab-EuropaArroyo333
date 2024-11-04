@@ -13,4 +13,4 @@ On my end, I am unable to view css changes other than that of the body in my sit
 
 ## Sources used
 
-None.
+A friend to help.
