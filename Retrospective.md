@@ -1,16 +1,16 @@
 # Retrospective
 
-- name: Jane Doe
-- email: janedoe@u.boisestate.edu
+- name: Miguel Arroyo
+- email: miguelarroyo@u.boisestate.edu
 
 ## Experience
 
-TODO
+A bit more challenging than expected, especially towards the end. 
 
 ## Known issues or Bugs
 
-TODO
+On my end, I am unable to view css changes other than that of the body in my site.
 
 ## Sources used
 
-TODO
+None.
