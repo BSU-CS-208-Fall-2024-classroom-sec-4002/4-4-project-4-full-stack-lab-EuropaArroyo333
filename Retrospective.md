@@ -5,7 +5,8 @@
 
 ## Experience
 
-A bit more challenging than expected, especially towards the end. 
+A bit more challenging than expected, especially towards the end. The introduction of pug as a way to simplify html was rather useful, more easy on the eyes.
+
 
 ## Known issues or Bugs
 
